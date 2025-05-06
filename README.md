@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:rizwan
+### Register Number:212224100051
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
